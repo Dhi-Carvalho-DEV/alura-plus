@@ -224,3 +224,9 @@ hr {
     display: block;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .principal {
+    background-position: 5rem;
+  }
+}
