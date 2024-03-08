@@ -229,4 +229,20 @@ hr {
   .principal {
     background-position: 5rem;
   }
+
+  .container {
+    grid-template-columns: 60% 50%;
+  }
+
+  .dispositivos {
+    margin: 0 3rem;
+  }
+
+  .dispositivos__titulo {
+    font-size: 2.5rem;
+  }
+
+  .lista__item {
+    font-size: 1.5rem;
+  }
 }
